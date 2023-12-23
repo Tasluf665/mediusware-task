@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "task",
-    "slug": "task",
+    "name": "mw-todo",
+    "slug": "mw-todo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
